@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Brad30</string>
+    <string name="mesg_hello">Hello,World</string>
+    <string name="mesg_click">Click Me</string>
+    <string name="mesg_welcome">Welcome</string>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">布萊德３０</string>
+    <string name="mesg_hello">您好,全世界</string>
+    <string name="mesg_click">按我</string>
+    <string name="mesg_welcome">歡迎光臨</string>
+</resources>
