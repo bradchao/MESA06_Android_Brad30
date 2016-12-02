@@ -64,6 +64,8 @@ public class MyService extends Service {
                         .setContentText("期末考成績公布");
 
         Intent resultIntent = new Intent(this, NoticeActivity.class);
+        resultIntent.putExtra("key1", 123);
+
         TaskStackBuilder stackBuilder = TaskStackBuilder.create(this);
         // Adds the back stack for the Intent (but not the Intent itself)
         stackBuilder.addParentStack(NoticeActivity.class);
